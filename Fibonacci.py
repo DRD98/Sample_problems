@@ -1,3 +1,4 @@
+#To determine the finonacci series
 def fibonacci(a):
     p = sum = 0
     q = 1
